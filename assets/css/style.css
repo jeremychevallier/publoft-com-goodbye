@@ -218,6 +218,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .price, .dp2Cn7rCPUkibY9nD
   font-family: 'Futura', 'Trebuchet MS', Arial, sans-serif;
   widows: 3;
   color: black;
+  letter-spacing: .001rem;
 }
 
 p, ul, ol {
@@ -1335,7 +1336,7 @@ input.hs-input:focus, input.hs-button:focus {
   }
 
   h1, .h1 {
-    font-weight: 800!important;
+    font-weight: 400!important;
   }
 
   h2, .h2 {
